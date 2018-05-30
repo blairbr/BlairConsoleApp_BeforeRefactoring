@@ -9,3 +9,5 @@ This principle states that if we have 2 reasons to change for a class, we have t
 "Gather together the things that change for the same reasons. Separate those things that change for different reasons."
 
 For instance, if you have a rectangle class that 1) Draws rectangles and 2) Calculates the area of rectangles, it needs to be refactored.
+
+https://www.linkedin.com/pulse/20140831133231-206881211-the-single-responsibility-principle
