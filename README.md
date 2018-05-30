@@ -10,4 +10,5 @@ This principle states that if we have 2 reasons to change for a class, we have t
 
 For instance, if you have a rectangle class that 1) Draws rectangles and 2) Calculates the area of rectangles, it needs to be refactored.
 
+"Just because you can, doesn't mean you should."
 https://www.linkedin.com/pulse/20140831133231-206881211-the-single-responsibility-principle
